@@ -5,6 +5,8 @@
     height: 100vh;
     padding: 0vh;
 }
+
+/* Cabeçalho */
 .inicio {
     align-items: flex-end;
     background-color: #777777;
@@ -14,6 +16,7 @@
     height: 16vh;
     margin: 0vh;
     padding: 0vh;
+    border: 0vh;
 }
 .logo {
     height: 16vh;
@@ -27,5 +30,60 @@
     height: 5vh;
     padding: 0vh;
     margin: auto;
-    font-weight: 100;
+    display: flex;
+    color: #fff;
+}
+
+/* Imagem e Corpo */
+
+.frente{
+    width: 100vw;
+    height: 67vh;
+    margin: 0vh;
+    padding: 0vh;
+    border: 0vh;
+    display: flex;
+}
+
+/* <img class="frente" src="./images/Pessoa.jpg"> */
+
+.img{
+    margin: 0vh;
+    padding: 0vh;
+    border: 0vh;
+    height: 66vh;
+    display: flex;
+}
+
+
+
+/* Rodapé */
+.fooster{
+        align-items: flex-end;
+        background-color: #777777;
+        border: 1px none;
+        width: 100vw;
+        height: 18vh;
+        margin: 0vh;
+        padding: 0vh;
+        border: 0vh;
+        display: flex;
+}
+.pfoo {
+    width: 100vw;
+    height: 18vh;
+    border: 0vh;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    color: #fff;
+    margin-left: 3vw;
+}
+#bem{
+    align-items: center;
+    width: 40vw;
+    height: 5vh;
+    padding: 0vh;
+    margin: auto;
+    display: flex;
 }
