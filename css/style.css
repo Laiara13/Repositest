@@ -43,17 +43,50 @@
     padding: 0vh;
     border: 0vh;
     display: flex;
+    
 }
 
 /* <img class="frente" src="./images/Pessoa.jpg"> */
+/* https://www.pexels.com/pt-br/foto/mulher-esportiva-com-bicicleta-descansando-em-uma-estrada-rural-ao-sol-3771836/ */
+/* https://images.pexels.com/photos/3771836/pexels-photo-3771836.jpeg */
 
 .img{
-    margin: 0vh;
-    padding: 0vh;
-    border: 0vh;
+
     height: 66vh;
     display: flex;
+    background-image: url(https://www.pexels.com/pt-br/foto/mulher-esportiva-com-bicicleta-descansando-em-uma-estrada-rural-ao-sol-3771836/);
+    background-color: #fff;
+    color: #000;
+    background-size: 100%;
 }
+
+.box {
+    width: 100vw;
+    height: 66vh;
+    border: 2px solid #777777;
+    margin: 0vh;
+  }
+
+.imagem {
+    background-image: url(https://images.pexels.com/photos/3771836/pexels-photo-3771836.jpeg);
+    background-color: #fff;
+    color: #000;
+    width: 100vw;
+    background-size: cover;
+    height: 66vh;
+    background-position-x: center;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -78,8 +111,9 @@
     flex-direction: row;
     color: #fff;
     margin-left: 3vw;
+    
 }
-#bem{
+#b{
     align-items: center;
     width: 40vw;
     height: 5vh;
