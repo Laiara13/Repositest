@@ -1,0 +1,31 @@
+/* #ID e .CLASS */
+*{
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+    padding: 0vh;
+}
+.inicio {
+    align-items: flex-end;
+    background-color: #777777;
+    border: 1px none;
+    display: flex;
+    width: 100vw;
+    height: 16vh;
+    margin: 0vh;
+    padding: 0vh;
+}
+.logo {
+    height: 16vh;
+    width: 32vw;
+    padding: 0vh;
+    margin: auto;
+}
+#crieaconta {
+    align-items: center;
+    width: 40vw;
+    height: 5vh;
+    padding: 0vh;
+    margin: auto;
+    font-weight: 100;
+}
