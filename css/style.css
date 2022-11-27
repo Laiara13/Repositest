@@ -83,16 +83,30 @@
     display: flex;
 }
 #d {
-    width: 400px;
+    width: 150px;
     padding: 0vh;
     height: 3vh;
     background-color: #777777;
     color: #FFF;
     align-items: center;
+    margin: auto;
     justify-content: center;
+    display: block;
     border: #000 solid 1px;
     text-align: center;
-    display: flex;
+}
+#e {
+    width: 300px;
+    padding: 0vh;
+    height: 3vh;
+    background-color: #777777;
+    color: #FFF;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    display: block;
+    border: #000 solid 1px;
+    text-align: center;
 }
 .palavras {
     margin: 0px;
@@ -116,7 +130,7 @@
 
 .img{
 
-    height: 66vh;
+    height: 72vh;
     display: flex;
     background-image: url(https://www.pexels.com/pt-br/foto/mulher-esportiva-com-bicicleta-descansando-em-uma-estrada-rural-ao-sol-3771836/);
     background-color: #fff;
@@ -135,26 +149,26 @@
     color: #000;
     width: 99vw;
     background-size: cover;
-    height: 66vh;
+    height: 72vh;
     background-position-x: center;
 }
 
 /* Rodapé */
 
-.fooster{
-        align-items: flex-end;
-        background-color: #777777;
-        border: 1px none;
-        width: 100vw;
-        height: 170px;
-        margin: 0vh;
-        padding: 0vh;
-        border: 0vh;
-        display: flex;
+.fooster {
+    align-items: flex-end;
+    background-color: #777777;
+    border: 1px none;
+    width: 100vw;
+    height: 171px;
+    margin: 0vh;
+    padding: 0vh;
+    border: 0vh;
+    display: flex;
 }
 .pfoo {
     width: 100vw;
-    height: 170px;
+    height: 114px;
     border: 0vh;
     display: flex;
     align-items: center;
@@ -175,4 +189,3 @@
 input::placeholder{
     color: #FFF;
 }
-
