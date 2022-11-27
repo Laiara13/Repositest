@@ -47,7 +47,7 @@
     
 }
 #b{
-    width: 100vw;
+    width: 99vw;
     padding: 0vh;
     display: flex;
     height: 5vh;
@@ -60,7 +60,7 @@
     border: #000 solid 3px;
 }
 #c{
-    width: 100vw;
+    width: 99vw;
     padding: 0vh;
     display: flex;
     height: 5vh;
@@ -143,4 +143,9 @@
     color: #fff;
     margin-left: 3vw;
     
+}
+#siga{
+    width: 100vw;
+    height: 80vh;
+    margin: 0vh;
 }
