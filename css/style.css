@@ -47,7 +47,7 @@
     
 }
 #b{
-    width: 720px;
+    width: 380px;
     padding: 0vh;
     display: flex;
     height: 5vh;
@@ -59,7 +59,7 @@
     border: #000 solid 3px;
 }
 #c{
-    width: 720px;
+    width: 380px;
     padding: 0vh;
     display: flex;
     height: 5vh;
@@ -82,7 +82,7 @@
 }
 .palavra {
     margin: 0px;
-    width: 99vw;
+    width: 380px;
     text-align: center;
     height: 8vh;
     outline: dashed;
@@ -112,7 +112,7 @@
     background-image: url(https://images.pexels.com/photos/3771836/pexels-photo-3771836.jpeg);
     background-color: #fff;
     color: #000;
-    width: 725px;
+    width: 385px;
     background-size: cover;
     height: 66vh;
     background-position-x: center;
