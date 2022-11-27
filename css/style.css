@@ -7,6 +7,7 @@
 }
 
 /* Cabeçalho */
+
 .inicio {
     align-items: flex-end;
     background-color: #777777;
@@ -45,10 +46,54 @@
     display: flex;
     
 }
+#b{
+    width: 100vw;
+    padding: 0vh;
+    display: flex;
+    height: 5vh;
+    margin-left: auto;
+    border: 0vh;
+    background: #87c5d4;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    border: #000 solid 3px;
+}
+#c{
+    width: 100vw;
+    padding: 0vh;
+    display: flex;
+    height: 5vh;
+    margin-left: auto;
+    border: 0vh;
+    background: #87c5d4;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    border: #000 solid 3px;
+    
+}
+.palavras{
+        margin: 0px;
+        width: 100vw;
+        height: 6vh;
+        padding: 0vh;
+        margin-top: 39vh;
+        
+    
+}
+.palavra {
+    margin: 0px;
+    width: 100vw;
+    text-align: center;
+    height: 8vh;
+    outline: dashed;
+    padding: 0vh;
+    margin-top: 3vh;
+    background: #87c5d499;
+}
 
 /* <img class="frente" src="./images/Pessoa.jpg"> */
-/* https://www.pexels.com/pt-br/foto/mulher-esportiva-com-bicicleta-descansando-em-uma-estrada-rural-ao-sol-3771836/ */
-/* https://images.pexels.com/photos/3771836/pexels-photo-3771836.jpeg */
 
 .img{
 
@@ -59,14 +104,12 @@
     color: #000;
     background-size: 100%;
 }
-
 .box {
     width: 100vw;
     height: 66vh;
     border: 2px solid #777777;
     margin: 0vh;
   }
-
 .imagem {
     background-image: url(https://images.pexels.com/photos/3771836/pexels-photo-3771836.jpeg);
     background-color: #fff;
@@ -77,20 +120,8 @@
     background-position-x: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Rodapé */
+
 .fooster{
         align-items: flex-end;
         background-color: #777777;
@@ -112,12 +143,4 @@
     color: #fff;
     margin-left: 3vw;
     
-}
-#b{
-    align-items: center;
-    width: 40vw;
-    height: 5vh;
-    padding: 0vh;
-    margin: auto;
-    display: flex;
 }
