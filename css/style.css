@@ -45,43 +45,60 @@
     display: flex;
     
 }
-#b{
-    width: 396px;
+#a{
+    width: 383px;
     padding: 0vh;
-    height: 5vh;
+    height: 3vh;
     background: #87c5d4;
     color: #000;
     align-items: center;
     justify-content: center;
     border: #000 solid 3px;
     text-align: center;
-    
 }
-#c{
-    width: 400px;
+#b {
+    width: 383px;
     padding: 0vh;
-    height: 5vh;
+    height: 3vh;
     background: #87c5d4;
     color: #000;
     align-items: center;
     justify-content: center;
     border: #000 solid 3px;
     text-align: center;
-    
 }
-
-.palavras{
-        margin: 0px;
-        width: 40vw;
-        height: 6vh;
-        padding: 0vh;
-        margin-top: 39vh;
-        
-    
+#c {
+    width: 383px;
+    padding: 0vh;
+    height: 3vh;
+    background: #87c5d4;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    border: #000 solid 3px;
+    text-align: center;
+}
+#d {
+    width: 383px;
+    padding: 0vh;
+    height: 3vh;
+    background: #87c5d4;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    border: #000 solid 3px;
+    text-align: center;
+}
+.palavras {
+    margin: 0px;
+    width: 100vw;
+    height: 6vh;
+    padding: 0vh;
+    margin-top: 32vh;
 }
 .palavra {
     margin: 0px;
-    width: 400px;
+    width: 383px;
     text-align: center;
     height: 8vh;
     outline: dashed;
