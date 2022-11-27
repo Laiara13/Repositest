@@ -46,47 +46,47 @@
     
 }
 #a{
-    width: 383px;
+    width: 400px;
     padding: 0vh;
     height: 3vh;
-    background: #87c5d4;
-    color: #000;
+    background: #777777;
+    color: #FFF;
     align-items: center;
     justify-content: center;
-    border: #000 solid 3px;
+    border: #000 solid 1px;
     text-align: center;
 }
 #b {
-    width: 383px;
+    width: 400px;
     padding: 0vh;
     height: 3vh;
-    background: #87c5d4;
-    color: #000;
+    background: #777777;
+    color: #FFF;
     align-items: center;
     justify-content: center;
-    border: #000 solid 3px;
+    border: #000 solid 1px;
     text-align: center;
 }
 #c {
-    width: 383px;
+    width: 400px;
     padding: 0vh;
     height: 3vh;
-    background: #87c5d4;
-    color: #000;
+    background: #777777;
+    color: #FFF;
     align-items: center;
     justify-content: center;
-    border: #000 solid 3px;
+    border: #000 solid 1px;
     text-align: center;
 }
 #d {
-    width: 383px;
+    width: 400px;
     padding: 0vh;
     height: 3vh;
-    background: #87c5d4;
-    color: #000;
+    background: #777777;
+    color: #FFF;
     align-items: center;
     justify-content: center;
-    border: #000 solid 3px;
+    border: #000 solid 1px;
     text-align: center;
 }
 .palavras {
@@ -98,7 +98,7 @@
 }
 .palavra {
     margin: 0px;
-    width: 383px;
+    width: 400px;
     text-align: center;
     height: 8vh;
     outline: dashed;
