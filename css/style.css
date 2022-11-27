@@ -1,0 +1,191 @@
+/* #ID e .CLASS */
+*{
+    margin: 0px;
+    width: 100vw;
+    padding: 0vh;
+}
+
+/* Cabeçalho */
+
+.inicio {
+    align-items: flex-end;
+    background-color: #777777;
+    border: 1px none;
+    display: flex;
+    width: 100vw;
+    height: 16vh;
+    margin: 0vh;
+    padding: 0vh;
+    border: 0vh;
+}
+.logo {
+    height: 16vh;
+    width: 32vw;
+    padding: 0vh;
+    margin: auto;
+}
+#crieaconta {
+    align-items: center;
+    width: 40vw;
+    height: 5vh;
+    padding: 0vh;
+    margin: auto;
+    display: flex;
+    color: #000;
+}
+
+/* Imagem e Corpo */
+
+.frente{
+    width: 100vw;
+    height: 67vh;
+    margin: 0vh;
+    padding: 0vh;
+    border: 0vh;
+    display: flex;
+    
+}
+#a{
+    width: 400px;
+    padding: 0vh;
+    height: 3vh;
+    background-color: #777777;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    border: #000 solid 1px;
+    text-align: center;
+    margin-bottom: 1vh;
+    display: flex;
+}
+#b {
+    width: 400px;
+    padding: 0vh;
+    height: 3vh;
+    background-color: #777777;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    border: #000 solid 1px;
+    text-align: center;
+    display: flex;
+}
+#c {
+    width: 400px;
+    padding: 0vh;
+    height: 3vh;
+    background-color: #777777;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    border: #000 solid 1px;
+    text-align: center;
+    display: flex;
+}
+#d {
+    width: 150px;
+    padding: 0vh;
+    height: 3vh;
+    background-color: #777777;
+    color: #000;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    display: block;
+    border: #000 solid 1px;
+    text-align: center;
+}
+#e {
+    width: 300px;
+    padding: 0vh;
+    height: 3vh;
+    background-color: #777777;
+    color: #000;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    display: block;
+    border: #000 solid 1px;
+    text-align: center;
+}
+.palavras {
+    margin: 0px;
+    width: 100vw;
+    height: 6vh;
+    padding: 0vh;
+    margin-top: 32vh;
+}
+.palavra {
+    margin: 0px;
+    width: 405px;
+    text-align: center;
+    height: 8vh;
+    outline: dashed;
+    padding: 0vh;
+    margin-top: 3vh;
+    background: #87c5d499;
+}
+
+/* <img class="frente" src="./images/Pessoa.jpg"> */
+
+.img{
+
+    height: 72vh;
+    display: flex;
+    background-image: url(https://www.pexels.com/pt-br/foto/mulher-esportiva-com-bicicleta-descansando-em-uma-estrada-rural-ao-sol-3771836/);
+    background-color: #fff;
+    color: #000;
+    background-size: 100%;
+}
+.box {
+    width: 100vw;
+    height: 66vh;
+    border: 2px solid #777777;
+    margin: 0vh;
+  }
+.imagem {
+    background-image: url(https://images.pexels.com/photos/3771836/pexels-photo-3771836.jpeg);
+    background-color: #fff;
+    color: #000;
+    width: 99vw;
+    background-size: cover;
+    height: 72vh;
+    background-position-x: center;
+}
+
+/* Rodapé */
+
+.fooster {
+    align-items: flex-end;
+    background-color: #777777;
+    border: 1px none;
+    width: 100vw;
+    height: 171px;
+    margin: 0vh;
+    padding: 0vh;
+    border: 0vh;
+    display: flex;
+}
+.pfoo {
+    width: 100vw;
+    height: 170px;
+    border: 0vh;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    font-size: 17px;
+    color: #000;
+    margin-left: 1vw;
+}
+#siga{
+    width: 100vw;
+    height: 80vh;
+    margin: 0vh;
+}
+
+
+/* JavaScript */
+
+input::placeholder{
+    color: #000;
+}
